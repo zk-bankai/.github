@@ -5,4 +5,4 @@
 </div>
 
 
-🤺 zk - Bankai is a builders community focused on Indian builders for the time being. We aim to provide a space for Indian builders to learn, build, and grow together. 
+🤺 zkBankai is a community of core protocol developers, engineers, researchers, mathematicians, and zk enthusiasts dedicated to advancing zero-knowledge technologies through collaboration, research, and education.
